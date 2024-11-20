@@ -13,8 +13,8 @@ athletic_sales_analysis.ipynb. The .csv resource files - client dataset.csv
 were provided with the assignement - athletic_sales_2020, athletic_sales_2021.
 
 ### Known Issues:
-I had trouble sorting the second groupby table but added a sort before printing
-out that seemed to help.  
+I had trouble sorting the second groupby table but think figured it out with 
+some help. I got an error code when doing date/time but it seemed to run fine.
 
 ### Acknowledgements:
 I used Xpert Learning Assitant to help with the last group by question - #34.  
